@@ -1,2 +1,2 @@
 # visor-qgis2web_incendio
-Visor con información y datos de incendios forestales ocurridos en Extremadura
+Este proyecto es un visor de mapas interactivo generado con el complemento **QGIS2Web** de QGIS.
